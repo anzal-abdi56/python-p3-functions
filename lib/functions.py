@@ -20,4 +20,4 @@ def add(num1, num2):
 
 
 def halve(number):
-    pass
+    return number / 2
